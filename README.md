@@ -1,1 +1,1 @@
-![This is an image](./capture.PNG)
+![This is an image](./capture.png)
